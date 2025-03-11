@@ -30,7 +30,7 @@ POST http://localhost:3000/contacts/ HTTP/1.1
 content-type: application/json
 
 {
-    "firstName": "Cindy",
+    "firstName": "Sally",
     "lastName": "Vick",
     "email": "cindyjanevick@gmail.com",
     "favoriteColor": "orange",
